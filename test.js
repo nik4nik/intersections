@@ -1,6 +1,9 @@
-/*	I don't know how to write tests for module which have
+/*	This is only an example. I have not used the BDD.
+	All this was written after debugging solution.js was completed.
+	I don't know how to write tests for еру module which have
 	to place in global area only one function - intersect().
-	So all tested functions have been coped in this file.
+	So all tested functions have been coped into the file.
+	
 	Run the tests using the mocha command.
 */
  
